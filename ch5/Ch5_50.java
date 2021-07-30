@@ -2,7 +2,7 @@ package ch5;
 
 import java.util.Scanner;
 
-public class Ch_50 {
+public class Ch5_50 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
