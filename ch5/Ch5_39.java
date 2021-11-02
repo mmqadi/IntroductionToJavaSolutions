@@ -6,7 +6,7 @@ public class Ch5_39 {
 
 	public static void main(String[] args) {
 		// Create a constant value for commission sought
-		final double COMMISSION_SOUGHT = 30000; 
+		final double COMMISSION_SOUGHT = 2700;
 		double salesAmount, 				// Sales amount
 				 commission,				// Employee commission
 				 balance;					// Sales balance
